@@ -34,5 +34,6 @@ if ($str !== "") {
         }
     }
 }
-//comment
+
+
 echo $schoolList === "" ? "None found." : $schoolList;
